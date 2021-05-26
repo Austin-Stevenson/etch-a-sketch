@@ -1,2 +1,2 @@
 # etch-a-sketch
-Etch a Sketch using HTML, CSS, and Vanilla JavaScript for The Odin Project
+Etch a Sketch using HTML and CSS for The Odin Project
